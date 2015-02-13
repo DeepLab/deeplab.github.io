@@ -1,12 +1,37 @@
 # Site settings
-title: Deep Lab 
-email: your- addie @ placesiveneverbeen dot com 
-description: > # this means to ignore newlines until "baseurl:"
-Deep Lab is a group of researchers who examine how the themes of privacy, security, surveillance, anonymity, and large-scale data aggregation are problematized in the arts, culture and society. 
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://deeplab.net" # the base hostname & protocol for your site
+title:       Deep Lab
+# email:       your_email@example.com
+# author:      John Otander
+description: "Deep Lab is a group of researchers who examine how the themes of privacy, security, surveillance, anonymity, and large-scale data aggregation are problematized in the arts, culture and society. "
+baseurl:     ""
+url:         "http://deeplab.net"
+
+
+# Optional features
+animated:           false
+show_related_posts: false
+show_post_footers:  false
+
+# Disqus post comments
+# (leave blank to disable Disqus)
+disqus_shortname:
+
+# Social icons
+show_social_icons: true
+github_username: deeplab
+stackoverflow_id:
 twitter_username: deeplab_
-github_username:  wheresaddie
+google_plus_id:
+linkedin_username:
+bitcoin_url:
+paypal_url:
+flattr_button:
 
 # Build settings
-markdown: kramdown
+markdown:     redcarpet
+redcarpet:
+  extensions: ['smart', 'tables', 'with_toc_data']
+permalink:    pretty
+paginate:     3
+sass:
+  compressed: true
