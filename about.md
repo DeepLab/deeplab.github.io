@@ -5,20 +5,21 @@ permalink: /about/
 ---
 
 **Founding Members (A-Z):**
-  * Addie Wagenknecht http://placesiveneverbeen.com, Artist/Director Deep Lab *
-  * Allison Burtch, Researcher/Artist/Activist * 
-  * Claire Evans, Futures Editor of Motherboard/Vice Magazine *
-  * Denise Caruso, Journalist, Senior Research Scholar, CMU EPP *
-  * Harlo Holmes, Developer *
-  * Ingrid Burrington, Researcher/Artist, Director of metadata for the Guardian *
-  * Kate Crawford, Principal Researcher Microsoft Research, Visiting Professor MIT * 
-  * Jen Lowe, Data Scientist/Researcher/Writer * 
-  * Julia Kaganskiy, NEWInc Director New Museum, NYC *
-  * Lindsay Howard, Independent Curator *
-  * Lorrie Cranor, Director of CyLab Usable Privacy and Security Laboratory, CMU *
-  * Madeleine Varner, Artist/Developer *
-  * Maral Pourkazemi, Data/Information Visualizer *
-  * Runa Sandvik, Privacy/Security Researcher, Tor Project * 
+
+  * Addie Wagenknecht http://placesiveneverbeen.com, Artist/Director Deep Lab 
+  * Allison Burtch, Researcher/Artist/Activist 
+  * Claire Evans, Futures Editor of Motherboard/Vice Magazine 
+  * Denise Caruso, Journalist, Senior Research Scholar, CMU EPP 
+  * Harlo Holmes, Developer 
+  * Ingrid Burrington, Researcher/Artist, Director of metadata for the Guardian 
+  * Kate Crawford, Principal Researcher Microsoft Research, Visiting Professor MIT  
+  * Jen Lowe, Data Scientist/Researcher/Writer 
+  * Julia Kaganskiy, NEWInc Director New Museum, NYC 
+  * Lindsay Howard, Independent Curator 
+  * Lorrie Cranor, Director of CyLab Usable Privacy and Security Laboratory, CMU 
+  * Madeleine Varner, Artist/Developer 
+  * Maral Pourkazemi, Data/Information Visualizer 
+  * Runa Sandvik, Privacy/Security Researcher, Tor Project 
  
  
 *Hacking technology is a right, not a weapon.  Because the deep web is largely void of a female presence—save for sexualized images—female hackers must engage with the future, in order to make our presence in history indelible. And so Deep Lab was born.*
@@ -38,6 +39,6 @@ Pushing beyond the boundaries of ego and affiliation, Deep Lab members may choos
 
 * [E.A.T.] (http://en.wikipedia.org/wiki/E.A.T.)
 * [Cypherpunks] (http://en.wikipedia.org/wiki/Cypherpunk)
-* [F.A.T.] Lab (http://fffff.at)
+* [F.A.T. Lab] (http://fffff.at)
 * [CCC] (http://en.wikipedia.org/wiki/Chaos_Computer_Club)
 * [Radical Software] (http://www.radicalsoftware.org/)
